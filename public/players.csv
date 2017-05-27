@@ -1,0 +1,35 @@
+id,status,name,age,nat,position,market value,moving to,moving from,transfer fee,created_at,updated_at
+1,1,Marcin Wasilewski,37,Poland,CB,425k,Free agent,-,-,2017-05-27 08:03:00.000000,2017-05-27 08:03:00.000000
+2,1,Nabil Bentaleb,22,"Algeria, France",CM,15.30m,FC Schalke 04,-,16.15m,2017-05-27 08:06:00.000000,2017-05-27 08:06:00.000000
+3,1,Johan Ter Horst,22,England,Striker,-,Free agent,-,Free transfer,2017-05-27 08:08:01.511948,2017-05-27 08:08:01.511948
+4,1,Alex Bruce,32,"Northern Ireland, Ireland",CB,638k,Free agent  ,-,-,2017-05-27 08:08:53.870871,2017-05-27 08:08:53.870871
+5,1,Federico Fazio,30,"Argentina, Italy",CB,7.65m,AS Roma,-,2.72m,2017-05-27 08:08:00.000000,2017-05-27 08:08:00.000000
+6,1,Jordan Rhodes,27,"Scotland, England",CF,8.50m,Sheff Wed,-,9.95m,2017-05-27 08:09:53.377224,2017-05-27 08:09:53.377224
+7,0,Bernardo Silva,22,Portugal,RW,21.25m,Monaco,-,42.50m,2017-05-27 08:10:00.000000,2017-05-27 08:10:00.000000
+8,1,Brad Guzan,32,"United States, Poland",GK,1.28m,Atlanta United,-,Free transfer,2017-05-27 08:11:27.183898,2017-05-27 08:11:27.183898
+9,1,Pablo Zabaleta,32,"Argentina, Spain",RB,6.80m,West Ham,-,Free transfer,2017-05-27 08:11:00.000000,2017-05-27 08:11:00.000000
+10,1,,35,Spain,Gk,2.13m,Free agent  ,-,-,2017-05-27 08:12:25.006097,2017-05-27 08:12:25.006097
+11,1,,31,Spain,RW,12.75m,Free agent,-,-,2017-05-27 08:12:00.000000,2017-05-27 08:12:00.000000
+12,1,Joey Barton,34,England,CM,1.28m,Free agent,-,-,2017-05-27 08:13:21.770036,2017-05-27 08:13:21.770036
+13,1,Bacary Sagna,34,"France, Senegal",RB,4.25m,Free agent,-,-,2017-05-27 08:13:00.000000,2017-05-27 08:13:00.000000
+14,1,Michael Kightly,31,England,LW,850k,Free agent,,,2017-05-27 08:14:32.300640,2017-05-27 08:14:32.300640
+15,1,Willy Caballero,35,"Argentina, Spain",GK,1.70m,Free agent,-,-,2017-05-27 08:14:00.000000,2017-05-27 08:14:00.000000
+16,1,,31,France,LB,6.80m,Free agent,-,-,2017-05-27 08:15:00.000000,2017-05-27 08:15:00.000000
+17,1,Craig Gardner,30,England,CM,2.98m,Birmingham,,1.49m,2017-05-27 08:15:50.594007,2017-05-27 08:15:50.594007
+18,1,Lloyd Isgrove,24,"Wales, England",LW,213k,Free agent,-,-,2017-05-27 08:16:00.000000,2017-05-27 08:16:00.000000
+19,0,Tom Cleverley,27,England,CM,6.80m,-,England  Everton,7.91m,2017-05-27 08:17:18.099593,2017-05-27 08:17:18.099593
+20,1,,30,Uruguay,CB,3.40m,Free agent,-,-,2017-05-27 08:17:00.000000,2017-05-27 08:17:00.000000
+21,1,Cuco Martina,27,"Curacao, Netherlands",RB,1.70m,Free agent,-,-,2017-05-27 08:19:00.000000,2017-05-27 08:19:00.000000
+22,0,Jorge Segura,20,Colombia,CB,170k,-, Envigado,-,2017-05-27 08:19:14.169413,2017-05-27 08:19:14.169413
+23,1,Gerhard Tremmel,38,Germany,GK,213k,Free agent,,-,2017-05-27 08:20:00.000000,2017-05-27 08:20:00.000000
+24,0,Pablo Zabaleta,32,"Argentina, Spain",RB,6.80m,-,Man City,Free transfer,2017-05-27 08:20:00.000000,2017-05-27 08:20:00.000000
+25,1,,34,Spain,RB,1.28m,Free agent,-,-,2017-05-27 08:21:00.000000,2017-05-27 08:21:00.000000
+26,1,Marvin Emnes,29,"Netherland, Suriname",CF,850k,  Free agent,-,-,2017-05-27 08:22:46.874810,2017-05-27 08:22:46.874810
+27,1,Alexander Manninger,40,Austria,GK,170k,Retired,-,-,2017-05-27 08:23:00.000000,2017-05-27 08:23:00.000000
+28,1,Tom Cleverley,27,England,CM,6.80m,Watford,-,7.91m,2017-05-27 08:23:00.000000,2017-05-27 08:23:00.000000
+29,1,Daniel Bachmann,22,Austria,GK,213k,Free agent,-,-,2017-05-27 08:25:00.000000,2017-05-27 08:25:00.000000
+30,1,Shay Given,41,Ireland,GK,425k,Free agent,-,-,2017-05-27 08:25:00.000000,2017-05-27 08:31:21.334884
+31,1,,33,Cote d'Ivoire,CF,1.28m,Free agent,-,-,2017-05-27 08:27:48.963885,2017-05-27 08:27:48.963885
+32,1,Juan Cuadrado,29,Ecuador,RW,21.25m,Juventus,-,17.00m,2017-05-27 08:28:00.000000,2017-05-27 08:28:00.000000
+33,1,John Terry,36,England,CB,850k,Unknown,,Free transfer,2017-05-27 08:28:00.000000,2017-05-27 08:30:53.251373
+34,1,Christian Atsu,25,Ghana,RW,2.13m,Newcastle,-,6.38m,2017-05-27 08:29:00.000000,2017-05-27 08:29:00.000000

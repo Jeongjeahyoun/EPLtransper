@@ -1,0 +1,52 @@
+
+<% @team_results.each do |x| %>
+<div class="container my-5">
+    
+    <div class="container my-5">
+        <h1><%=x.name.gsub!(/[(].+/,'')%></h1>
+    </div>
+        <table class="table">
+              <thead class="thead-inverse">
+                <tr>
+                <th>Name</th>
+                <th>Status</th>
+                <th>age</th>
+                <th>nation</th>
+                <th>position</th>
+                <th>market value</th>
+                <th>Moving to/from</th>
+                <th>transfer fee</th>
+                </tr>
+              </thead>
+
+              <tbody>
+                  
+                <% x.players.each do |y| %>
+                <tr>
+                    <td><%= y.name %></td>
+                    <% if y.status == 0 %> <!-- arrival 선수단 -->
+                        <td>Arrival</td>
+                    <% elsif y.status == 1 %> <!-- departure 선수단 -->
+                        <td>Departure</td>
+                    <% end %>
+                    <td><%= y.age %></td>
+                    <td><%= y.nat %></td>
+                    <td><%= y.position %></td>
+                    <td><%= y.market_value%></td>
+                    <% if y.status == 0 %> <!-- arrival 선수단 -->
+                        <td><%= y.moving_from %></td>
+                    <% elsif y.status == 1 %> <!-- departure 선수단 -->
+                        <td><%= y.moving_to %></td>
+                    <% end %>
+                    <td><%= y.transfer_fee%></td>
+                </tr>
+                <% end %>
+                <% if x.players.count() == 0 %>
+                    <h4>no transfer info</h4>
+                  <% end %>
+        
+              </tbody>
+        </table>
+       
+    </div>
+<% end %>
